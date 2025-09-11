@@ -1,0 +1,19 @@
+package week_10.day_4;
+
+public class ques_4_switchm {
+    public static void main(String[] args) {
+        char a='A';
+        switch(a){
+            case 'A':System.out.println("Good");
+            break;
+            case 'B':System.out.println("Not bad");
+            break;
+            case 'C':System.out.println("Work Hard");
+            break;
+            case 'D':System.out.println("Need hard work");
+            break;
+            default:System.out.println("Fail");
+
+        }
+    }
+}
