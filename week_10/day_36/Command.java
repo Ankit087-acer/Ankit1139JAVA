@@ -1,6 +1,6 @@
-package week_10.day_2;
+package week_10.day_36;
 
-public class ques_2_command {
+public class Command {
     public static void main(String[] args) {
         System.out.println("Hello World");
     }

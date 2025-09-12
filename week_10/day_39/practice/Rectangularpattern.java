@@ -1,4 +1,4 @@
-package week_10.day_5.practice;
+package week_10.day_39.practice;
 import java.util.Scanner;
 public class Rectangularpattern {
     public static void main(String[] args) {

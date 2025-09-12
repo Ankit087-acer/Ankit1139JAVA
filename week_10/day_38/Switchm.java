@@ -1,6 +1,6 @@
-package week_10.day_4;
+package week_10.day_38;
 
-public class ques_4_switchm {
+public class Switchm {
     public static void main(String[] args) {
         char a='A';
         switch(a){

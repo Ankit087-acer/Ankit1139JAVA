@@ -1,6 +1,6 @@
-package week_10.day_4;
+package week_10.day_38;
 
-public class ques_4_marks {
+public class Marks {
     public static void main(String[] args) {
         int marks=56;
         if(marks>=90 && marks<100){

@@ -1,6 +1,6 @@
-package week_10.day_3;
+package week_10.day_37;
 
-public class ques_3_arithmetic {
+public class Arithmetic {
     public static void main(String[] args) {
         int a=4,b=5;
         System.out.println("Addition: "+(a+b));

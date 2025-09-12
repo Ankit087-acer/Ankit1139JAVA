@@ -1,4 +1,4 @@
-package week_10.day_5.problems;
+package week_10.day_39.problems;
 
 public class Sumeven {
     public static void main(String[] args) {

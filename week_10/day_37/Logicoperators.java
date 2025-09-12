@@ -1,6 +1,6 @@
-package week_10.day_3;
+package week_10.day_37;
 
-public class ques_4_logi {
+public class Logicoperators {
     public static void main(String[] args) {
         int a=1;
         if(a%2==0 && a>2){

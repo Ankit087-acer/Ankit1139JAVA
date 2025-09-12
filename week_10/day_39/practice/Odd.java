@@ -1,4 +1,4 @@
-package week_10.day_5.practice;
+package week_10.day_39.practice;
 
 public class Odd {
     public static void main(String[] args) {

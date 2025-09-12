@@ -1,6 +1,6 @@
-package week_10.day_4;
+package week_10.day_38;
 
-public class ques_1_even {
+public class Even {
     public static void main(String[] args) {
         int a=3;
         if(a%2==0){
