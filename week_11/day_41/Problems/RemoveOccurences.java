@@ -5,12 +5,16 @@ import java.util.Arrays;
 public class RemoveOccurences {
     public static void main(String[] args) {
         int[] arr = {10, 20, 25, 30, 40};
-            int n = 5;
-              int pos = 2; 
-          for (int i = pos; i < n - 1; i++) {
-                arr[i] = arr[i+1]; 
+            int n = arr.length;
+              int remove = 25; 
+              int j=0;
+          for (int i = 0; i < n; i++) {
+               if(arr[i]!=remove){
+                arr[j]=arr[i];
+                j++;
+               }
            }
-              n--; 
-           System.out.println(Arrays.toString(arr)); 
+            int[] arr2=Arrays.copyOf(arr,j);
+           System.out.println(Arrays.toString(arr2)); 
     }
 }
