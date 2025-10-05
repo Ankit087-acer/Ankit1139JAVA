@@ -1,4 +1,4 @@
-package com.week12.day46.Classwork;
+package com.week12.day45.Classwork;
 // import java.util.Arrays;
 public class LinearSearch {
     public static void main(String[] args) {
@@ -7,7 +7,6 @@ public class LinearSearch {
         for(int i=0;i<arr.length;i++){
             if(arr[i]==target){
                 System.out.println("Found at "+i);
-                // break;
             }
             
         }

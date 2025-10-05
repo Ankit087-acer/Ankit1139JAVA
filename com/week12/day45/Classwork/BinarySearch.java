@@ -1,4 +1,4 @@
-package com.week12.day46.Classwork;
+package com.week12.day45.Classwork;
 
 public class BinarySearch {
     public static void main(String[] args) {
