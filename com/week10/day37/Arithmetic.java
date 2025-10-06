@@ -1,4 +1,4 @@
-package com.week10.day37;
+package Com.week10.day37;
 import java.util.*;
 public class Arithmetic {
     public static void main(String[] args) {

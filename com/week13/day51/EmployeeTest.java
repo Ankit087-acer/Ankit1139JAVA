@@ -1,4 +1,4 @@
-package com.week13.day51;
+package Com.week13.day51;
 class Employee {
     String name;
     int id;

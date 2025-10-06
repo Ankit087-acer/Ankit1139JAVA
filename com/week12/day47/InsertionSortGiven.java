@@ -1,4 +1,4 @@
-package com.week12.day47;
+package Com.week12.day47;
 public class InsertionSortGiven {
     public static void main(String[] args) {
         int arr[]={20,50,40,10,30};

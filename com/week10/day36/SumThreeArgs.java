@@ -1,4 +1,4 @@
-package com.week10.day36;
+package Com.week10.day36;
 public class SumThreeArgs {
     public static void main(String[] args) {
         int sum=0;

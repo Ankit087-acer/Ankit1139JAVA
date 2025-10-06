@@ -1,4 +1,4 @@
-package com.week13.day51;
+package Com.week13.day51;
 import java.util.*;
 public class PalindromeChecker {
     public static boolean palindrome(String st){

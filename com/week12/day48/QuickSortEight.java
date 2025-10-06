@@ -1,4 +1,4 @@
-package com.week12.day48;
+package Com.week12.day48;
 import java.util.*;
 public class QuickSortEight {
      public static int partition(int arr[],int low,int high){

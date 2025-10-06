@@ -1,4 +1,4 @@
-package com.week12.day45.Problems;
+package Com.week12.day45.Problems;
 import java.util.*;
 public class BinarySearchFunction {
    public static void bubblesort(int arr[]){

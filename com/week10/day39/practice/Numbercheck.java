@@ -1,4 +1,4 @@
-package com.week10.day39.practice;
+package Com.week10.day39.practice;
 public class Numbercheck {
     public static void main(String[] args) {
         int i=1;

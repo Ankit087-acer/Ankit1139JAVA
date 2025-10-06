@@ -1,4 +1,4 @@
-package com.week12.day48;
+package Com.week12.day48;
 public class QuickSortDescending {
     static int quickComparisons = 0;
     public static int partition(int arr[], int low, int high) {

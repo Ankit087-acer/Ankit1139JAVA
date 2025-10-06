@@ -1,4 +1,4 @@
-package com.week12.day48;
+package Com.week12.day48;
 import java.util.Arrays;
 public class CompareSorts {
     static int mergeComparisons = 0;

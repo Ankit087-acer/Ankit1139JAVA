@@ -1,4 +1,4 @@
-package com.week11.day44.Classwork;
+package Com.week11.day44.Classwork;
 import java.util.*;
 public class Factorial {
     public static int factorial(int n){

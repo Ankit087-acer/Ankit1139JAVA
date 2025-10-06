@@ -1,4 +1,4 @@
-package com.week11.day44.Problems;
+package Com.week11.day44.Problems;
 
 import java.util.Scanner;
 public class Sum {

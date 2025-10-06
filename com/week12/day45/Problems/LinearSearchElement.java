@@ -1,4 +1,4 @@
-package com.week12.day45.Problems;
+package Com.week12.day45.Problems;
 
 import java.util.Arrays;
 import java.util.Scanner;

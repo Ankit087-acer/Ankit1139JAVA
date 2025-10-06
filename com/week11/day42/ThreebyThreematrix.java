@@ -1,4 +1,4 @@
-package com.week11.day42;
+package Com.week11.day42;
 import java.util.*;
 public class ThreebyThreematrix {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.week13.day50;
+package Com.week13.day50;
 
 public class StartAppendInsert {
     public static void main(String[] args) {

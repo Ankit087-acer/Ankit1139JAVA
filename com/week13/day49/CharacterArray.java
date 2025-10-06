@@ -1,4 +1,4 @@
-package com.week13.day49;
+package Com.week13.day49;
 import java.util.*;
 public class CharacterArray {
     public static void main(String[] args) {

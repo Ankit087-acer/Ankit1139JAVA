@@ -1,4 +1,4 @@
-package com.week13.day49;
+package Com.week13.day49;
 
 public class string {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.week12.day45.Classwork;
+package Com.week12.day45.Classwork;
 // import java.util.Arrays;
 public class LinearSearch {
     public static void main(String[] args) {

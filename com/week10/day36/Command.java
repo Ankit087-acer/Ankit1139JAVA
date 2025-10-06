@@ -1,4 +1,4 @@
-package com.week10.day36;
+package Com.week10.day36;
 
 
 public class Command {

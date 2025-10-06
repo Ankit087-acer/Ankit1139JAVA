@@ -1,4 +1,4 @@
-package com.week11.day43;
+package Com.week11.day43;
 import java.util.*;
 public class SumOfTwoMatrices {
     public static void main(String[] args) {

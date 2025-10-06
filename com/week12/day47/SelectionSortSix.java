@@ -1,4 +1,4 @@
-package com.week12.day47;
+package Com.week12.day47;
 import java.util.*;
 public class SelectionSortSix {
     public static void SelectionSort(int arr[],int n){

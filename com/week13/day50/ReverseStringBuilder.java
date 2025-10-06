@@ -1,4 +1,4 @@
-package com.week13.day50;
+package Com.week13.day50;
 import java.util.*;
 public class ReverseStringBuilder {
    public static void main(String[] args) {

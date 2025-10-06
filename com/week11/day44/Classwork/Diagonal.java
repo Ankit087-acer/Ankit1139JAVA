@@ -1,4 +1,4 @@
-package com.week11.day44.Classwork;
+package Com.week11.day44.Classwork;
 import java.util.Arrays;
 public class Diagonal {
     public static void main(String[] args) {

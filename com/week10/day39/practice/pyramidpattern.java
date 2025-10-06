@@ -1,4 +1,4 @@
-package com.week10.day39.practice;
+package Com.week10.day39.practice;
 import java.util.Scanner;
 public class pyramidpattern {
     public static void main(String[] args) {

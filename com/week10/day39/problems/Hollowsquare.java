@@ -1,4 +1,4 @@
-package com.week10.day39.problems;
+package Com.week10.day39.problems;
 
 public class Hollowsquare {
     public static void main(String[] args) {

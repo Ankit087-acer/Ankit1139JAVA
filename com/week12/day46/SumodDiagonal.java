@@ -1,4 +1,4 @@
-package com.week12.day46;
+package Com.week12.day46;
 import java.util.*;
 public class SumodDiagonal {
     public static void main(String[] args) {

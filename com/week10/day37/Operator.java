@@ -1,4 +1,4 @@
-package com.week10.day37;
+package Com.week10.day37;
 public class Operator {
     public static void main(String[] args) {
         // --- Assignment Operators ---
